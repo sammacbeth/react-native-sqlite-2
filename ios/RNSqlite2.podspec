@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   RNSqlite2
                    DESC
-  s.homepage     = ""
+  s.homepage     = "https://github.com/craftzdog/react-native-sqlite-2"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "author@domain.cn" }
