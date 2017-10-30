@@ -16,7 +16,7 @@ public class RNSqlite2Package implements ReactPackage {
       return Arrays.<NativeModule>asList(new RNSqlite2Module(reactContext));
     }
 
-    @Override
+    // Deprecated RN 0.47
     public List<Class<? extends JavaScriptModule>> createJSModules() {
       return Collections.emptyList();
     }
